@@ -17,7 +17,7 @@ To install and run the project locally, follow these steps:
 
 ```bash
 git clone https://github.com/sidor91/git-crm-client.git
-cd repository
+cd git-crm-client
 ```
 
 ### Install Dependencies
